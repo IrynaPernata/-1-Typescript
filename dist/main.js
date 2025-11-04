@@ -1,6 +1,4 @@
-"use strict";
 // src/main.ts
-Object.defineProperty(exports, "__esModule", { value: true });
 // СТАТИЧНІ ДАНІ
 const skillsData = [
     { name: 'TypeScript', icon: 'TS', level: 90, categories: ['frontend', 'backend'] },
@@ -341,4 +339,5 @@ function initContactForm() {
         form.reset();
     });
 }
+export {};
 //# sourceMappingURL=main.js.map
