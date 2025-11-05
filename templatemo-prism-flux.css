@@ -381,7 +381,7 @@ body::after {
 	height: 650px;
 	perspective: 1200px;
 	position: relative;
-	padding-top: 60px;
+	/* padding-top: 60px; */
 }
 
 .carousel {
