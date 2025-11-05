@@ -368,7 +368,7 @@ body::after {
 	align-items: center;
 	justify-content: center;
 	position: relative;
-	padding: 120px 20px 80px;
+	padding: 100px 20px 80px;
 	background: radial-gradient(ellipse at center,
 			rgba(153, 69, 255, 0.1) 0%,
 			transparent 50%),
