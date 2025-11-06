@@ -396,7 +396,7 @@ body::after {
 	width: 400px;
 	height: 500px;
 	left: 50%;
-	top: 50%;
+	top: 15%;
 	transform-style: preserve-3d;
 	transition: all 0.8s cubic-bezier(0.4, 0.0, 0.2, 1);
 	cursor: pointer;
