@@ -1,0 +1,24 @@
+{
+  "name": "-1-typescript",
+  "version": "1.0.0",
+  "description": "Спеціальні мови програмування (TypeScript) \r Практична робота №1\r Пернатої Ірини ПД-41",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrynaPernata/-1-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IrynaPernata/-1-Typescript/issues"
+  },
+  "homepage": "https://github.com/IrynaPernata/-1-Typescript#readme",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
